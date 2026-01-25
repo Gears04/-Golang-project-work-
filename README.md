@@ -1,2 +1,2 @@
-# -Golang-project-work-
-Мини-приложение на Go
+# -Golang-project-work - Мини-приложение на Go
+Todo-app
