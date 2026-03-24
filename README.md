@@ -7,20 +7,7 @@
 
 ---
 
-## Структура проекта
-
-todo-app/
-├── cmd/
-│ └── todo/
-│ └── main.go # точка входа CLI-приложения
-├── internal/
-│ ├── todo/ # бизнес-логика (задачи)
-│ └── storage/ # работа с JSON и CSV
-├── tasks.json # основное хранилище задач
-├── go.mod
-└── README.md
-
-## КОманды Todo CLI
+## Кoманды Todo CLI
 
 1) Добавить задачу:
 2) 
@@ -62,5 +49,3 @@ todo-app/
    ~--format (обязательный) — json или csv
 
    ~--file (обязательный) — путь к входному файлу
-# Golang project work - Мини-приложение на Go
-Todo-app
